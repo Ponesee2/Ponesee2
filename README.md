@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @Ponesee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hi, I’m @Ponesee  
+- 👀 I’m interested in web development, cybersecurity, and AI.  
+- 🌱 I’m currently learning Django, frontend design, and ethical hacking.  
+- 💞️ I’m looking to collaborate on open-source projects and innovative web applications.  
+- 📫 How to reach me: [Your Email or Social Link]  
+- 😄 Pronouns: [Your Pronouns]  
+- ⚡ Fun fact: I enjoy breaking things (ethically) to make them more secure!  
 
-<!---
-Ponesee2/Ponesee2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
