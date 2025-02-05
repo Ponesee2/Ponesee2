@@ -21,23 +21,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats  
-
-<p align="left">
-  <a href="https://github.com/user/repo/actions">
-    <img src="https://github.com/user/repo/actions/workflows/main.yml/badge.svg" alt="Build Status" />
-  </a>
-  <a href="https://github.com/user/repo/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/user/repo.svg" alt="License" />
-  </a>
-  <a href="https://github.com/user/repo/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/user/repo.svg" alt="Contributors" />
-  </a>
-  <a href="https://github.com/user/repo/network/members">
-    <img src="https://img.shields.io/github/forks/user/repo.svg" alt="Forks" />
-  </a>
-  <a href="https://github.com/user/repo/stargazers">
-    <img src="https://img.shields.io/github/stars/user/repo.svg" alt="Stars" />
-  </a>
-</p>
