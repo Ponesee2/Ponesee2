@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Hacker-E34F26?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Love-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Proud-Developer-orange?style=for-the-badge&logo=python&logoColor=white"/>
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ---
