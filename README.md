@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/Proud-Developer-orange?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+---
+
 <p align="left">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
