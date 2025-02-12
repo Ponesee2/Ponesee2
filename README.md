@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Hacker-E34F26?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Love-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Proud-Developer-orange?style=for-the-badge&logo=python&logoColor=white"/>
-  <img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Feleceed%2Fpage%2Fblog%2F100-member-challenge-entry-kayden-break%2FJdXb_mpcduE7rdnlWjbMYL4BQoRXlgzYz&psig=AOvVaw31xLSBlqoD4RBxOGxdXW9U&ust=1739490625002000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICBn8-pv4sDFQAAAAAdAAAAABAE">
 </p>
 
 ---
