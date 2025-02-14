@@ -30,16 +30,17 @@
 
 ---
 
+## 🍔 Food Badges  
+<p align="left">
+  <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" />
+  <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
+</p>
+---
+
 <p align="left">
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
     <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif">
   
 </p>
 
----
 
-## 🍔 Food Badges  
-<p align="left">
-  <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" />
-  <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
-</p>
