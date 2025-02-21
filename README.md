@@ -20,7 +20,7 @@
 
 ## 🏆 Fun Badges  
 <p align="left">
-  <img src="[https://img.shields.io/badge/Hacker-E34F26?style=for-the-badge&logo=kalilinux&logoColor=white]https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVlNjRoNXUza3k3MTg2NWdmY3U1c2gxdWtra2g3NHowbnl6NjFsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" />
+  <img src="[https://img.shields.io/badge/Hacker-E34F26?style=for-the-badge&logo=kalilinux&logoColor=white]" />
   <img src="https://img.shields.io/badge/Proud-Developer-orange?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -36,10 +36,11 @@
 
 ##
 <p align="left">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVlNjRoNXUza3k3MTg2NWdmY3U1c2gxdWtra2g3NHowbnl6NjFsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
     <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif">
   
 </p>
+
 
 ---
 
