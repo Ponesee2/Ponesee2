@@ -1,6 +1,6 @@
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td valign="top">
       
 ## 👋 Hi, I’m @Ponesee  
 - 👀 I’m interested in web development and AI.  
@@ -8,7 +8,7 @@
 - 📫 How to reach me: [burliegnearlponce@gmail.com](mailto:burliegnearlponce@gmail.com)  
 
     </td>
-    <td>
+    <td align="center">
       <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200"/>
     </td>
   </tr>
@@ -17,7 +17,7 @@
 ---
 
 ## 🔧 Technologies & Tools  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
