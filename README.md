@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <tr>
     <td>
       
@@ -13,6 +13,9 @@
     </td>
   </tr>
 </table>
+
+---
+
 ## 🔧 Technologies & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
