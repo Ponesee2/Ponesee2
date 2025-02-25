@@ -8,7 +8,7 @@
 - 📫 How to reach me: [burliegnearlponce@gmail.com](mailto:burliegnearlponce@gmail.com)  
 
     </td>
-    <td align="center">
+    <td align="right">
       <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200"/>
     </td>
   </tr>
@@ -31,7 +31,7 @@
 ---
 
 ## 🏆 Fun Badges  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Hacker-E34F26?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Proud-Developer-orange?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
@@ -39,14 +39,14 @@
 ---
 
 ## 🍔 Food Badges  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" />
   <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif">
 </p>
 
