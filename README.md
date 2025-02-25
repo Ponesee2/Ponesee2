@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 ## 👋 Hi, I’m @Ponesee  
 - 👀 I’m interested in web development and AI.  
