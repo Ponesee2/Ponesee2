@@ -1,9 +1,11 @@
+<div class="row">
 ### 👋 Hi, I’m @Ponesee  
 - 👀 I’m interested in web development, and AI.  
 - 🌱 I’m currently learning Django, frontend design, and ethical hacking.  
 - 📫 How to reach me: burliegnearlponce@gmail.com  
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZqazIxbHg0ZmUxNWlxNHY3NXRncHlrN3RreXIxancyaHAyYmhraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EKrFksrzxQxlb5ahiq/giphy.gif" />
 ---
-
+</div>
 ### 🔧 Technologies & Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
