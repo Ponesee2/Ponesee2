@@ -1,13 +1,16 @@
-<div class="row">
-### 👋 Hi, I’m @Ponesee  
-- 👀 I’m interested in web development, and AI.  
+<div align="center">
+  
+## 👋 Hi, I’m @Ponesee  
+- 👀 I’m interested in web development and AI.  
 - 🌱 I’m currently learning Django, frontend design, and ethical hacking.  
-- 📫 How to reach me: burliegnearlponce@gmail.com  
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZqazIxbHg0ZmUxNWlxNHY3NXRncHlrN3RreXIxancyaHAyYmhraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EKrFksrzxQxlb5ahiq/giphy.gif" />
+- 📫 How to reach me: [burliegnearlponce@gmail.com](mailto:burliegnearlponce@gmail.com)  
+
+<img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200"/>
+  
 ---
-</div>
-### 🔧 Technologies & Tools  
-<p align="left">
+
+## 🔧 Technologies & Tools  
+<p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
@@ -21,30 +24,27 @@
 ---
 
 ## 🏆 Fun Badges  
-<p align="left">
-  <img src="[https://img.shields.io/badge/Hacker-E34F26?style=for-the-badge&logo=kalilinux&logoColor=white]" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacker-E34F26?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Proud-Developer-orange?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
 ## 🍔 Food Badges  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" />
   <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
 </p>
 
 ---
 
-##
-<p align="left">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVlNjRoNXUza3k3MTg2NWdmY3U1c2gxdWtra2g3NHowbnl6NjFsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
+<p align="center">
+  <img src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif">
 </p>
-
 
 ---
 
 ![Ponesee2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponesee2&show_icons=true&theme=radical)
 
-
-
+</div>
