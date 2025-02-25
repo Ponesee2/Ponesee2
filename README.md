@@ -1,4 +1,4 @@
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0" borlderless>
   <tr>
     <td valign="top">
       
@@ -8,7 +8,7 @@
 - 📫 How to reach me: [burliegnearlponce@gmail.com](mailto:burliegnearlponce@gmail.com)  
 
     </td>
-    <td align="right">
+    <td align="">
       <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200"/>
     </td>
   </tr>
