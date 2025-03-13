@@ -2,7 +2,7 @@
   <tr>
     <td valign="top">
       
-## 👋 Hi, I’m @Ponce  Github @Ponesee2
+## 👋 Hi, I’m Ponce  Github @Ponesee2
 - 👀 I’m interested in web development and AI.  
 - 🌱 I’m currently learning Django, frontend design, and ethical hacking.  
 - 📫 How to reach me: [burliegnearlponce@gmail.com](mailto:burliegnearlponce@gmail.com)
