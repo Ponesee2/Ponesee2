@@ -1,9 +1,9 @@
 <div style="display: grid; grid-template-columns: auto 200px; align-items: start; gap: 20px;">
-<div style="display: grid; grid-template-columns: 200px auto; align-items: start; gap: 20px;">
-  <div>
-    <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200" />
-  </div>
-  <div>
+  <div style="display: grid; grid-template-columns: 200px auto; align-items: end; gap: 20px;">
+    <div>
+      <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200" />
+    </div>
+    <div>
     <h2>👋 Hi, I’m Ponce 📫 Github @Ponesee2</h2>
     <ul>
       <li>👀 I’m interested in web development and AI.</li>
