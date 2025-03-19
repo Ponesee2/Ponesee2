@@ -1,16 +1,20 @@
-<div style="display: grid; grid-template-columns: auto 200px; align-items: start; gap: 20px;">
-  <div style="display: grid; grid-template-columns: 200px auto; align-items: end; gap: 20px;">
-    <div>
-      <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200" />
-    </div>
-    <div>
+<div style="display: flex; justify-content: space-between; align-items: start; gap: 20px;">
+  
+  <!-- Left Section: List -->
+  <div>
     <h2>👋 Hi, I’m Ponce 📫 Github @Ponesee2</h2>
-    <ul>
+    <ul style="margin: 0; padding: 0; list-style-position: inside;">
       <li>👀 I’m interested in web development and AI.</li>
       <li>🌱 I’m currently learning Django, frontend design, and ethical hacking.</li>
       <li>📫 How to reach me: <a href="mailto:burliegnearlponce@gmail.com">burliegnearlponce@gmail.com</a></li>
     </ul>
   </div>
+
+  <!-- Right Section: Image -->
+  <div>
+    <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200" />
+  </div>
+
 </div>
 ---
 
