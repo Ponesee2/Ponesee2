@@ -1,19 +1,16 @@
-<table width="100%" cellspacing="0" cellpadding="0" borderless>
-  <tr>
-    <td valign="top">
-      
-## 👋 Hi, I’m Ponce 📫 Github @Ponesee2  
-- 👀 I’m interested in web development and AI.  
-- 🌱 I’m currently learning Django, frontend design, and ethical hacking.  
-- 📫 How to reach me: [burliegnearlponce@gmail.com](mailto:burliegnearlponce@gmail.com)
-
-
-    </td>
-    <td align="">
-      <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
+  <div>
+    <h2>👋 Hi, I’m Ponce 📫 Github @Ponesee2</h2>
+    <ul>
+      <li>👀 I’m interested in web development and AI.</li>
+      <li>🌱 I’m currently learning Django, frontend design, and ethical hacking.</li>
+      <li>📫 How to reach me: <a href="mailto:burliegnearlponce@gmail.com">burliegnearlponce@gmail.com</a></li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200" />
+  </div>
+</div>
 
 ---
 
