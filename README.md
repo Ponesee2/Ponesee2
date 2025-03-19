@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
+<div style="display: grid; grid-template-columns: auto 200px; align-items: start; gap: 20px;">
   <div>
     <h2>👋 Hi, I’m Ponce 📫 Github @Ponesee2</h2>
     <ul>
