@@ -1,4 +1,8 @@
 <div style="display: grid; grid-template-columns: auto 200px; align-items: start; gap: 20px;">
+<div style="display: grid; grid-template-columns: 200px auto; align-items: start; gap: 20px;">
+  <div>
+    <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200" />
+  </div>
   <div>
     <h2>👋 Hi, I’m Ponce 📫 Github @Ponesee2</h2>
     <ul>
@@ -7,11 +11,7 @@
       <li>📫 How to reach me: <a href="mailto:burliegnearlponce@gmail.com">burliegnearlponce@gmail.com</a></li>
     </ul>
   </div>
-  <div>
-    <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200" />
-  </div>
 </div>
-
 ---
 
 ## 🔧 Technologies & tools 
