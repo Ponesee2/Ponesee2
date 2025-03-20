@@ -10,11 +10,6 @@
     </ul>
   </div>
 
-  <!-- Right Section: Image -->
-  <div>
-    <img src="https://media2.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="200" height="200" />
-  </div>
-
 </div>
 ---
 
