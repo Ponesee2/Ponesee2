@@ -10,7 +10,7 @@
     </ul>
   </div>
 
-</div>
+</div> 
 ---
 
 ## 🔧 Technologies & tools 
