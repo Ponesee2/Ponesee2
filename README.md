@@ -9,7 +9,6 @@
       <li>📫 How to reach me: <a href="mailto:burliegnearlponce@gmail.com">burliegnearlponce@gmail.com</a></li>
     </ul>
   </div>
-
 </div> 
 ---
 
