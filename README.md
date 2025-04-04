@@ -10,7 +10,10 @@
     </ul>
   </div>
 </div> 
+
+
 ---
+
 
 ## 🔧 Technologies & tools 
 <p align="left">
