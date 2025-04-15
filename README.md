@@ -52,6 +52,6 @@
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
 
-![Ponesee2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponesee2&show_icons=true&theme=radical)
+![Ponesee2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponesee2&show_icons=true&theme=tokyonight)
 
 </div>
