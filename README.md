@@ -3,7 +3,7 @@
   <!-- Left Section: List -->
   <div>
     <h2>👋 Hi, I’m Ponce 📫 Github @Ponesee2</h2>
-    <ul style="margin: 0; padding: 0; list-style-position: inside;"> 
+    <ul style="margin: 0; padding: 0; list-style-position: inside;">  
       <li>👀 I’m interested in web development and AI.</li> 
       <li>🌱 I’m currently learning Django, frontend design, and ethical hacking.</li>
       <li>📫 How to reach me: <a href="mailto:burliegnearlponce@gmail.com">burliegnearlponce@gmail.com</a></li>    
