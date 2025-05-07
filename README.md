@@ -50,7 +50,7 @@
 </p>
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ponesee2&theme=buefy)
+
 
 ![Ponesee2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponesee2&show_icons=true&theme=buefy)
 
