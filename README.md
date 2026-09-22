@@ -26,31 +26,5 @@
   <img src="https://img.shields.io/badge/Sublime_Text-575757?style=for-the-badge&logo=sublime-text&logoColor=important" />
 </p>
 
----
-
-## 🏆🏆🏆 Fun Badges   
-<p align="left">
-  <img src="https://img.shields.io/badge/Hacker-E34F26?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proud-Developer-orange?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-## 🍔 Food Badges  
-<p align="left">
-  <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" />
-  <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
-</p>
-
----
-
-<p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZwM3ZybHZxcDF3dnF3ZTdtd2N2aGtveG8xa3Z1czNrbjExeWswNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" />
-</p>
-
----
-
-
-![Ponesee2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponesee2&show_icons=true&theme=buefy)
 
 </div>
